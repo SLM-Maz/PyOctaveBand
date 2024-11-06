@@ -1,0 +1,2 @@
+# PyOctaveBand
+frequency descrete
